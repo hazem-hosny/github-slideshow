@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "github-slideshow"
+version: "1.0.0"
+authors:
+  - family-names: "Hosny"
+    given-names: "Hazem"
+date-released: "2023-10-09"
+repository-code: "https://github.com/hazem-hosny/github-slideshow"
+license: "MIT"
+keywords: ["FAIR", "BioRS", "citation", "metadata"]
