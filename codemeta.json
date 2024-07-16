@@ -1,0 +1,19 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "github-slideshow",
+  "description": "A simple repository for creating GitHub slideshows.",
+  "license": "MIT",
+  "codeRepository": "https://github.com/hazem-hosny/github-slideshow",
+  "programmingLanguage": "JavaScript",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Hazem",
+      "familyName": "Hosny",
+      "email": "hazem@example.com",
+      "url": "https://github.com/hazem-hosny"
+    }
+  ],
+  "publisher": "GitHub"
+}
