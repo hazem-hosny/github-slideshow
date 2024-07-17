@@ -1,0 +1,5 @@
+statuses:
+  - context: "continuous-integration/travis-ci"
+    description: "Travis CI build status"
+  - context: "code-review"
+    description: "Code review status"
