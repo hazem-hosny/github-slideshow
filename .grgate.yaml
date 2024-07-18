@@ -1,0 +1,7 @@
+required_statuses:
+  - test
+  - build
+  - deploy
+optional_statuses:
+  - code_quality
+  - security
