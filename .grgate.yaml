@@ -1,0 +1,4 @@
+statuses:
+  - pending
+  - success
+  - failure
