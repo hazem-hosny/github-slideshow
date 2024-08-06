@@ -1,0 +1,15 @@
+statuses:
+  - name: continuous-integration
+    context: ci/circleci: build
+    required: true
+  - name: code-review
+    context: code-review/lgtm
+    required: true
+  - name: security-checks
+    context: security/snyk
+    required: true
+actions:
+  pull_request:
+    types:
+      - opened
+      - synchronized
