@@ -1,0 +1,6 @@
+statuses:
+  - name: "ci/circleci: build"
+    state: "success"
+  - name: "ci/circleci: test"
+    state: "success"
+  - name: "ci/circleci: deploy"
