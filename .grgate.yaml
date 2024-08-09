@@ -1,0 +1,5 @@
+statuses:
+  - context: "ci/circleci"
+    description: "CircleCI build status"
+  - context: "codecov/project"
+    description: "Codecov coverage status"
